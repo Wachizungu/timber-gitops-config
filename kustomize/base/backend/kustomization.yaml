@@ -1,6 +1,7 @@
 resources:
   - deployment.yaml
   - service.yaml
+  - service2.yaml
 
 commonLabels:
   app: timber-backend
